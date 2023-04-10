@@ -1,0 +1,99 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(33, 33, 66);
+  overflow: hidden;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 20px 250px;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  text-shadow: #020819 8px -20px 9px;
+  font-size: 1em;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 4em;
+}
+
+#structure div {
+cover-box {
+background-color: rgb(20, 20, 51);
+color: white;
+font-size: 1.5em;
+font-weight: 100;
+text-align: center;
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+flex-wrap: wrap;
+}
+}
+.a button {
+  background-color: blue;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+}
+#white-box {
+  font-size: 1.2em;
+  text-align: center;
+  padding:  10px 10px 10px 10px;
+}
+#blue-box {
+  background-color: rgb(20, 20, 51);
+  color: white;
+  font-size: 1em;
+  text-align: center;
+  padding:  10px 10px 10px 10px;
+}
+h6 {
+  font-size: 1.5em;
+}
+h7 {
+font-size: 1.5em;
+font-weight: 700;
+}
+img {
+  width: 200px;
+  height: 150px;
+}
+#red-box {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(33, 33, 66);
+}
+h10 {
+  color: white;
+}
+ul {
+  color: blue;
+}
+address {
+  color: white;
+}
